@@ -61,7 +61,7 @@ Esto lo convierte en un caso adecuado para demostrar competencias en:
 ## 4. Análisis del repositorio de referencia
 
 Repositorio analizado:
-https://github.com/betofleitass/django_point_of_sale
+http://127.0.0.1:8000/admin/ventas/venta/
 
 El repositorio proporciona una estructura base para sistemas de ventas, de la cual se adaptan los siguientes conceptos:
 
@@ -182,7 +182,7 @@ El modelo se encuentra en tercera forma normal (3FN), garantizando:
 ## 9. Referencias
 
 * betofleitass. django_point_of_sale. GitHub
-  https://github.com/betofleitass/django_point_of_sale
+ http://127.0.0.1:8000/admin/ventas/venta/
 
 ---
 
