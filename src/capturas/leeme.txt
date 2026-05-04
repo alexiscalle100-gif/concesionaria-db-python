@@ -1,0 +1,48 @@
+# Zayn Cars - Sistema de Gestión Automotriz (TPV) 🚗 💸
+
+Aplicación web de punto de venta y gestión de inventario para concesionarias, desarrollada con **Python** y **Django** con fines académicos por **Alexis Zayn**.
+
+---
+
+## 📌 Tabla de Contenido
+* [Características](#características)
+* [Capturas de Pantalla](#capturas-de-pantalla)
+* [Pila Tecnológica](#pila-tecnológica)
+* [Instalación](#instalación)
+* [Ejecución Local](#ejecución-local)
+* [Contribuyendo](#contribuyendo)
+* [Licencia](#licencia)
+
+---
+
+## ✨ Características
+* **Autenticación:** Inicio de sesión seguro para la gestión del personal.
+* **Dashboard:** Panel con estadísticas de inventario y gráficos de ventas de vehículos.
+* **Gestión de Datos:** Tablas interactivas con filtros y exportación a PDF/CSV.
+* **Inventario:** Control detallado de autos (VIN, marca, modelo, precio, combustible).
+* **Ventas y Clientes:** Módulo completo de transacciones y registro de compradores.
+* **Financiamiento:** Seguimiento de cuotas y estados de pago.
+
+---
+
+## 🛠️ Pila Tecnológica
+* **Desarrollo Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5, SweetAlert2.
+* **Backend:** Django Framework, Python 3.x.
+* **Base de Datos:** PostgreSQL (pgAdmin 4).
+
+---
+
+## ⚙️ Instalación
+
+### Requisitos Previos
+* **Python 3.10+**
+* **PostgreSQL** activo y con la base de datos `concesionaria_db` creada.
+* **Git**
+
+### Configuración inicial
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/alexiscall100-gif/concesionaria-db-python](https://github.com/alexiscall100-gif/concesionaria-db-python)
+
+
+
