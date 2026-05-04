@@ -1,8 +1,16 @@
 # Zayn Cars - Sistema de Gestión Automotriz (TPV) 🚗 💸
 
 Aplicación web de punto de venta y gestión de inventario para concesionarias, desarrollada con **Python** y **Django** con fines académicos por **Alexis Zayn**.
+### 11.1 Diagrama ER
 
----
+<img width="1536" height="1024" alt="image" src="" />
+
+
+### 11.2 Diagrama EER
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb0a7970-a562-4cf5-9bef-3d491259b029" />
+
+-----------------------------------------------------------------------
 
 ## 📌 Tabla de Contenido
 * [Características](#características)
